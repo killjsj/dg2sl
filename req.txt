@@ -1,0 +1,5 @@
+numpy
+paddleocr
+pydglab_ws
+qrcode
+mss
