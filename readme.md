@@ -74,7 +74,7 @@ using https://github.com/othneildrew/Best-README-Template/blob/main/BLANK_README
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-把sl和dglab连一起了
+把sl和dglab连一起了（请注意main.py中的calc_pulse函数 此函数用来计算波形 将来优化修改方式）
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +100,7 @@ follow Installation
     ```sh
     python ./main.py
     ```
-5. 扫码然后被电（）
+5. 扫码然后受伤被电（）
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
